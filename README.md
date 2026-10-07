@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Ermin%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Electrical%20Engineering%20%26%20CS%20Student&descSize=18&descAlignY=60" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Ermin%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Electrical%20Engineering%20and%20CS%20Student&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://github.com/erminhadzic4">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=C%2B%2B+is+my+home+turf;Building+full-stack+apps+with+Spring+Boot+%26+React;Exploring+AI+and+LLM-powered+tools;Teaching+Assistant+%40+ETF+Sarajevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=C%2B%2B+is+my+home+turf;Building+full-stack+apps+with+Spring+Boot+and+React;Exploring+AI+and+LLM-powered+tools;Teaching+Assistant+%40+ETF+Sarajevo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -69,12 +69,32 @@ A full-stack web app for tracking your video game library.
 
 ### 🗂️ More projects
 
-| Project | What it is | Tech |
-|---|---|---|
-| 🧠 **[Memory Leak Detector](https://github.com/erminhadzic4/Memory-Leak-Detector)** | C++ project that tracks memory allocations and writes a leak report to a text file | `C++` `Visual Studio` |
-| 📱 **[NRS2023 Project](https://github.com/erminhadzic4/NRS2023-Projekat)** | Group mobile app for the *Advanced Software Development* course at ETF, with Jenkins and Codemagic CI/CD (431 commits, ⭐ 5) | `Dart` `Flutter` `CI/CD` |
-| 🔨 **[Auction App](https://github.com/erminhadzic4/Auction-App)** | Consumer-to-consumer e-commerce web app based entirely on bidding | `React` `Node.js` `Express` `PostgreSQL` `Firebase` |
-| 📊 **[Sorting Algorithms Visualizer](https://github.com/erminhadzic4/Application-for-Visualization-of-Sorting-Algorithms)** | Desktop app that animates 8 sorting algorithms, counts array accesses and comparisons, measures execution time and compares algorithms | `C#` `WinForms` |
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🧠 <a href="https://github.com/erminhadzic4/Memory-Leak-Detector">Memory Leak Detector</a></b><br/>
+C++ project that tracks memory allocations and writes a leak report to a text file.<br/><br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square" alt="Visual_Studio"/>
+</td>
+<td width="50%" valign="top">
+<b>📱 <a href="https://github.com/erminhadzic4/NRS2023-Projekat">NRS2023 Project</a></b><br/>
+Group mobile app for the <i>Advanced Software Development</i> course at ETF, with Jenkins and Codemagic CI/CD. 431 commits, ⭐ 5.<br/><br/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI%2FCD"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>🔨 <a href="https://github.com/erminhadzic4/Auction-App">Auction App</a></b><br/>
+Consumer-to-consumer e-commerce web app based entirely on bidding.<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</td>
+<td width="50%" valign="top">
+<b>📊 <a href="https://github.com/erminhadzic4/Application-for-Visualization-of-Sorting-Algorithms">Sorting Algorithms Visualizer</a></b><br/>
+Desktop app that animates 8 sorting algorithms, counts array accesses and comparisons, measures execution time and compares algorithms.<br/><br/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=sharp&logoColor=white" alt="C%23"/> <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square" alt="WinForms"/>
+</td>
+</tr>
+</table>
 
 > See everything on my [repositories tab](https://github.com/erminhadzic4?tab=repositories).
 
